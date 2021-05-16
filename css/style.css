@@ -1,0 +1,221 @@
+body{
+	padding-top: 121px;
+}
+.logo {
+	color: #FF7A00;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 140px;
+	margin-top: 15px;
+}
+.header-wrapper {
+    width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	background-color: #fff;
+}
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 50px;
+	}
+	.nav-a {
+		color:   #181C28;
+		vertical-align: middle;
+	}
+.navigation {
+	display: inline-block;
+	margin-left: 119px;
+	margin-top: 20px;
+	
+}
+.pic1 {
+	width: 100%;
+	margin-top: 50px;
+}
+.img-wrapper {
+	position: relative;
+}
+.img-txt1 {
+	color: #fff ;
+	position: absolute ;
+	font-size: 22px;
+	top: 105px;
+	left: 647px;
+}
+.img-txt2 {
+	color: #fff;
+	position: absolute;
+	font-size: 48px;
+	left: 700px;
+	top: 133px;
+}
+.post {
+	color: #FF7A00;
+	margin-left: 172px;
+	margin-top: 84px;
+	font-size: 22px;
+}
+.bag {
+	width: 636px;
+	height: 423px
+	margin-top:196px;
+	margin-left: 138px;
+}
+.first {
+	font-size: 36px;
+	width: 636px;
+	height: 94px;
+	margin-left:138px;
+	margin-top: 20px;
+	
+}
+.first1 {
+	font-size: 36px;
+	width: 636px;
+	height: 94px;
+	margin-left:px;
+	margin-top: 20px;
+	
+}
+
+.secend {
+	font-size: 16px;
+	font-weight: 636px;
+	height: 81px;
+	color: #7B7B7B;
+	margin-left: 138px;
+	margin-top:22px;
+}
+.secend1 {
+	color: #7B7B7B;
+}
+
+
+
+.line{
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	vertical-align: middle;
+	display: inline-block;
+}
+.box1 {
+	display: inline-block;
+	width: 836px;
+	padding-left: px;
+	padding-top: 81px;
+	
+}
+.box2 {
+	display: inline-block;
+	vertical-align: top;
+	width: 636px;
+	
+	padding-top: 81px;
+
+	
+
+}
+.box3 {
+	display: inline-block;
+	width: 836px;
+	padding-left: 0px;
+	padding-top: 81px;
+}
+.box4 {
+	display: inline-block;
+	vertical-align: top;
+	width: 636px;
+	
+	padding-top: 81px;
+}
+.more {
+	margin-left: 139px;
+	margin-top: 13px;
+}
+.more1 {
+	padding-top: 73px;
+}
+.container {
+	width: 1325px;
+	background-color: yellow;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 0 auto;
+
+}
+.full {
+	width: 1600px;
+}
+
+.bag {
+
+}
+.chair {
+	padding-top: auto;
+}
+.kinfolk {
+	margin-left: 138px;
+}
+.load {
+	margin: 205px 695px 902px 715px;
+	position: relative;
+}
+.txt {
+	position: absolute;
+	left:38px;
+	top:23px;
+	font-size: 22px;
+}
+.empty {
+	width: 100%;
+	height: 266px;
+	margin-top: 0px;
+}
+.company {
+	display: inline-block;
+	padding-left: 138px;
+	padding-top: 82px;
+
+
+}
+.a {
+	font-size: 24px;
+	color: #282828
+	width: 124px;
+	height: 33px;
+	display: inline-block;
+}
+.b { display: inline-block;
+	padding-bottom: 10px;
+	color: #7B7B7B
+}
+
+.service {
+	display: inline-block;
+	margin-top: 82px;
+	padding-left: 198px;
+	vertical-align: top;
+	
+}
+.orders {
+	display: inline-block;
+	margin-top: 82px;
+	padding-left: 198px;
+	vertical-align: top;
+}
+.pay {
+	display: inline-block;
+	padding-left: 1248px;
+	padding-bottom: 350px;
+	vertical-align:top;
+}
+.end {
+	display: inline-block;
+	color: #A4A4A4
+	
+}
